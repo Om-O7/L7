@@ -23,3 +23,16 @@ int main() {
     return 0;
 }
 
+2)A small poem on friendship
+
+The Thread of Friendship
+
+A thread so strong, yet soft and kind,
+Woven through both heart and mind.
+Through sunlit days and stormy skies,
+A friend stands firm, with knowing eyes.
+
+Laughter shared, a hand held tight,
+A guiding star in darkest night.
+No miles nor time can wear it thin,
+True friendship glows from deep within.
