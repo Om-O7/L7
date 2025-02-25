@@ -2,4 +2,24 @@ my self om
 from gadag
 studying in amity university bengalure
 Btech cse
-source code management 
+source code management
+
+1)write a c program to sub two numbers
+
+#include <stdio.h>
+
+int main() {
+    int num1, num2, result;
+
+    printf("Enter first number: ");
+    scanf("%d", &num1);
+    printf("Enter second number: ");
+    scanf("%d", &num2);
+
+    result = num1 - num2;
+
+    printf("The result of subtraction is: %d\n", result);
+
+    return 0;
+}
+
