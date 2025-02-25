@@ -38,3 +38,7 @@ No miles nor time can wear it thin,
 True friendship glows from deep within.
 
 3)today is a good day because it has good in it.
+
+4)what is git bash??
+
+Git Bash is an application for Microsoft Windows environments which provides an emulation layer for a Git command line experience
